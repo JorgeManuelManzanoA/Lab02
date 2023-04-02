@@ -1,0 +1,96 @@
+body { 
+    background-color: rgba(206, 200, 200, 0.973);
+    margin: 0px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10%;
+}
+
+.foto {
+    border-radius: 100%;
+}
+
+.iz, .tituloiz {
+    color: rgba(190, 185, 185, 0.973);
+    text-align: center;
+}
+
+.redes {
+    margin-bottom: 20px;
+}
+ 
+.len {
+    margin-bottom: 20px;
+}
+
+div#titulo{
+    height:100%;
+    width:979px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-left: 370px;
+    margin-right: 0px;
+    background-color: #f5de0dd2;
+    text-align: center;
+}
+
+div#LI{
+    height:100%;    
+    width: 370px;
+    position: fixed;
+    top:0;
+    left:0;
+    background-color: rgba(1, 4, 8, 0.986);
+}
+
+div#LD{
+    margin-right: 0px;
+    position: absolute;
+    width: 64%;
+    top: 25%;
+    left: 32%;
+}
+
+table {
+    margin: 0 auto;
+    border: solid rgba(1, 4, 8, 0.986);
+}
+
+th {
+    padding-left: 66px;
+    padding-right: 66px;
+}
+
+h1 {
+    color: rgba(20, 38, 61, 0.986);
+    font-family:Tahoma;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family:Tahoma;
+    font-size: 25px;
+    text-decoration: underline;
+    color: rgba(20, 38, 61, 0.986);
+}
+
+h3 {
+    color: rgba(1, 4, 8, 0.986);
+    padding-left: 22px;
+    font-family:Tahoma;
+    font-size: 20px;
+    left: 1000px;
+}
+
+h4 {
+    font-family:Tahoma;
+    font-size: 20px;
+}
